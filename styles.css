@@ -136,8 +136,9 @@ body {
     }
     .abroad-img1{
 	background-size:cover;
-	width:100%;
+	width:90%;
 	height:500px;
+	margin-left:80px;
     }
 .fancy-link {
     text-decoration: none;
